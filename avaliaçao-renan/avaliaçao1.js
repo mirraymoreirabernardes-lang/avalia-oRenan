@@ -79,3 +79,7 @@ alert(
 );}
 
     
+// n conssigo colocar o site no ar
+// se fizer certo, consegue (=
+// uma dica, olha a diferença entre a estrutura de pastas que vc esta fazendo com a que eu coloquei no print... tem um leve diff
+//é isso?
